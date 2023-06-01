@@ -1,0 +1,169 @@
+.thhome{
+    width: 100%;
+    margin-top:1px;
+}
+.work{
+    width: 60rem;
+    display: flex;
+    flex-direction: row;
+    color:rgb(6, 80, 129);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+    font-weight: 700;
+    margin-left:8rem;
+    margin-right: 0px;;
+}
+
+.wks{
+    display: flex;
+    flex-direction: row;
+}
+.blink{
+    margin-top:-5px;
+    margin-left:4px;
+    color: rgb(6, 80, 129);  
+    
+    animation: animate 1.5s linear infinite;
+}
+@keyframes animate {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.bign{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:800%;
+    font-weight: bold;
+    opacity: 0.1;
+    margin-right:50rem ;
+       
+}
+.bign2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:800%;
+    font-weight: bold;
+    opacity: 0.1;
+    margin-right:80rem ;
+    margin-left:-10rem;
+}
+.bign3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:800%;
+    font-weight: bold;
+    opacity: 0.1;
+    margin-right:0rem ;
+    margin-left:12rem;
+}
+.se{
+    display: flex;
+    flex-direction: row;
+    margin-right:25rem;
+    
+}
+
+.th{
+    display: flex;
+    flex-direction: row;
+    margin-left: 32.4rem;;
+    margin-right:5rem;
+    
+}
+.btxt{
+    color:rgb(6, 80, 129);
+    font-size:larger;
+    font-weight: 700;
+    margin-top: 3rem;
+    margin-left:-57rem;
+   
+}
+.btxt2{
+    color:rgb(6, 80, 129);
+    font-size:larger;
+    font-weight: 700;
+    margin-top: 3rem;
+    margin-left:-87rem;
+    width:9rem;
+}
+.btxt3{
+    color:rgb(6, 80, 129);
+    font-size:larger;
+    font-weight: 700;
+    margin-top: 3rem;
+    margin-left:-7rem;
+    width:10rem;
+}
+
+.txt1{
+
+    margin-top:6rem;
+    width:20rem;
+    margin-right: 15rem;
+    margin-left:-5.5rem;
+    opacity: 0.5;
+}
+.txt2{
+
+    margin-top:6rem;
+    width:18rem; 
+    margin-left:-9rem;
+    opacity: 0.5;
+}
+.txt3{
+
+    margin-top:5.8rem;
+    width:20rem; 
+    margin-left:-8.9rem;
+    opacity: 0.5;
+    
+}
+.txt4{
+
+    margin-top:6rem;
+    width:16rem ;
+    margin-left:-10rem;
+    opacity: 0.5;
+}
+
+.ft{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left:8rem;
+    margin-right:8rem;
+}
+
+.st{
+    margin-top:-.3rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left:8rem;
+    margin-right:8rem;
+}
+
+.balpha{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 900%;
+    font-weight: 800;
+    opacity:0.2;
+    padding-left:10rem;
+
+}
+
+.btxt{
+    margin-left:10rem;
+    
+    margin-left:8rem;
+    color:rgb(6, 80, 129);
+
+}
