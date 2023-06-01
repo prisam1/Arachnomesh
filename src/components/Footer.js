@@ -69,10 +69,10 @@ const Footer = () => {
      
      <div className="cpr">Copyright Arachnomesh 2022</div>
      <div className="soimg">
-     <img src={lin} className="socl"></img> 
-     <img src={fb} className="socl"></img> 
-     <img src={tt} className="socl"></img> 
-     <img src={wt} className="socl"></img> 
+     <img src={lin} className="socl" alt="img"></img> 
+     <img src={fb} className="socl" alt="img"></img> 
+     <img src={tt} className="socl" alt="img"></img> 
+     <img src={wt} className="socl" alt="img"></img> 
      </div>
 
      <div className="tc">

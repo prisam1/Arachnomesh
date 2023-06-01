@@ -35,16 +35,16 @@ const Third = () => {
           <div className="ft">     
           <div className="balpha">A</div>
           <div className="btxt">One million single use plastic bottles are thrown out every minute!</div>
-          <div><img src={bt} className='bimg'></img></div>
+          <div><img src={bt} className='bimg' alt="img"></img></div>
           <div className="balpha">C</div>
           <div className="btxt">How to live sustainably during a pandemic <a hreaf="">Read More</a></div>
           </div>
 
           <div className="st">  
-          <div><img src={sea} className='bimg'></img></div>
+          <div><img src={sea} className='bimg' alt="img"></img></div>
           <div className="balpha">B</div>
           <div className="btxt">The Plastic free year Challenges is Here. REGISTER NOW!</div>
-          <div><img src={fall} className='bimg'></img></div>
+          <div><img src={fall} className='bimg' alt="img"></img></div>
           </div>
         </div>
         </div>
