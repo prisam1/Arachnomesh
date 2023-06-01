@@ -8,7 +8,7 @@ const Second = () => {
     <div className="second">
   
          <div>
-          <img src={Bottles} alt="Brazil" className="bottles"/>
+          <img src={Bottles} alt="bot" className="bottles"/>
          </div>
      
 

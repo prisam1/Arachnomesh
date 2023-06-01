@@ -1,8 +1,8 @@
 import React from "react";
 import Larq from "../Images/LARQ_Pitcher_PW_1 1.png"
-import Vari from "../Images/Property 1=Variant2.png"
-import Varia from "../Images/Property 1=Variant4 (1).png"
-import Bottle from "../Images/Property 1=Variant4.png"
+// import Vari from "../Images/Property 1=Variant2.png"
+// import Varia from "../Images/Property 1=Variant4 (1).png"
+// import Bottle from "../Images/Property 1=Variant4.png"
 import Bottl from "../Images/fococlipping.png"
 import Bott from "../Images/fococlipping-.png"
 import Bbott from "../Images/fococlipping-2.png"
@@ -20,7 +20,7 @@ const Cart = () => {
     <div className="mai">
       <div className="tolr">
       <div className="toleft">
-      <img src={Bbott} className="bbott"/>
+      <img src={Bbott} className="bbott" alt="img"/>
       </div>
       <div className="toright">
        <div className="car">
