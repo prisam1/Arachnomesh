@@ -1,0 +1,237 @@
+.bottle1{
+height:200px;
+width:70px;
+margin-left:18.5rem;
+background-color: rgb(184, 238, 238);
+padding-left:4rem;
+padding-top:1rem;
+padding-bottom:1rem;
+padding-right:4rem;
+border-radius: 1.5rem;
+}
+
+.bottle2{
+    height:200px;
+    width:200px;
+    padding-top:1rem;
+    padding-bottom:1rem;
+    margin-left:18.5rem;
+    background-color: rgb(184, 238, 238);
+    border-radius: 1.5rem;
+    }
+.bottle3{
+        height:200px;
+        width:200px;
+        padding-top:1rem;
+        padding-bottom:1rem;
+        margin-left:18rem;
+        background-color: rgb(184, 238, 238);
+        border-radius: 1.5rem;
+        }
+.bottle1:hover{
+            height:200px;
+            width:70px;
+            margin-left:18.5rem;
+            background-color: rgb(247, 246, 246);
+            padding-left:4rem;
+            padding-right:4rem;
+            transition: all 1.5s;
+            transform: scale(1) rotate(-40deg);
+            border-radius: 1.5rem;
+            }
+            
+.bottle2:hover{
+                height:200px;
+                width:200px;
+                margin-left:18.5rem;
+                background-color:rgb(247, 246, 246);
+                transition: all 1.5s;
+                transform: scale(1) rotate(-40deg);   
+                border-radius: 1.5rem;
+                }
+.bottle3:hover{
+                    height:200px;
+                    width:200px;
+                    margin-left:18rem;
+                    background-color:rgb(247, 246, 246);
+                    border-radius: 1.5rem;
+                    transition: all 1.5s;
+                    transform: scale(1) rotate(-40deg);
+                    }       
+
+
+.cbott{
+    margin-top:5rem;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.fbtt{
+    margin-left: 21rem;
+    font-size: large;
+    color:rgb(6, 80, 129);
+    font-weight:700;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.fstt{
+    margin-top:0.5rem;
+    margin-left: 22.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 550;
+}
+
+.line{
+    margin-top:2rem;
+}
+
+.return{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-left:1rem;
+    margin-top:2rem;
+    margin-bottom: 1rem;
+    
+}
+.list{
+    list-style-type: circle;
+    color:black;
+}
+.tolr{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-family:Arial, Helvetica, sans-serif
+}
+.bbott{
+    margin-left: 20rem;
+    height:24rem;
+    width:24rem;
+}
+.bbott:hover{
+    background: url("../Images/Group 72.png");
+    transition: all 1s;
+    height:25rem;
+    width:25rem;
+}
+
+.toright{
+    margin-left:6rem;
+}
+
+.info{
+    
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 1rem;
+    
+    
+}
+
+.del{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    margin-left:1rem;
+    margin-top:2rem;
+    margin-bottom: 1rem;
+
+}
+.fdelinf{
+    margin-left:1rem;
+    margin-bottom:1rem;
+}
+.delinf{
+    margin-left:2rem;
+    margin-bottom:1rem; 
+}
+
+.ln{
+width:9rem;
+margin-top:.5rem;
+margin-bottom:.5rem;
+margin-left:-2.1rem;
+
+}
+.lnn{
+    width:9rem;
+    margin-top:.5rem;
+    margin-bottom:.5rem;
+       
+    }
+
+.thead{
+    opacity:0.5;
+}    
+.car{
+    display:flex;
+    
+}
+
+.caimg{
+    height:30px;
+    width:30px;
+}
+.himg{
+    height:15px;
+    width:15px;
+    margin-right:2px;
+}
+
+.inb{
+    display:flex;
+    flex-direction: row;
+    padding-left:10px;
+    height:2rem;
+    width:12rem;
+    border-color: rgb(6, 80, 129);
+    border-width:1.5px;
+    border-radius:4px ;
+}
+.inbf{
+    display:flex;
+    flex-direction: row;
+    margin-left:5rem;
+    padding-top:9px;
+    padding-left:9px;
+    height:2rem;
+    width:7rem;
+    border-color: rgb(6, 80, 129);
+    border-width:1.5px;
+    border-radius:4px ;
+}
+.inbf:hover{
+    display:flex;
+    flex-direction: row;
+    margin-left:5rem;
+    padding-top:9px;   
+    background-color:rgb(6, 80, 129);
+    padding-left:9px;
+    height:2rem;
+    width:7rem;
+    border-width:1.5px;
+    border-color:rgb(6, 80, 129);
+    border-radius:4px ;
+}
+.bu{
+    margin-top:9px;
+    margin-left:9px;
+}
+.but{
+   margin-left:5px;
+}
+
+.inb:hover{
+    display:flex;
+    flex-direction: row;
+    padding-left:10px;
+    height:2rem;
+    width:12rem;
+    background-color:rgb(6, 80, 129);
+    border-width:1.5px;
+    border-radius:4px ;
+}

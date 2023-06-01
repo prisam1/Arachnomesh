@@ -1,10 +1,10 @@
 import React from "react"
 //import { Routes, Route} from "react-router-dom"
-// import HomePage from "./Pages/HomePage"
 import Footer from "./components/Footer"
 import  Header  from "./components/Header"
 import Second from "./Pages/Second"
 import Third from "./Pages/Third"
+import Cart from "./Pages/Cart"
 import "../src/App.css"
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
     <Header/>
     <Second/>
     <Third/>
+    <Cart/>
     <Footer/> 
       {/* <Routes>      
         <Route path="/" element={<HomePage />} />
