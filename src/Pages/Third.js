@@ -37,7 +37,7 @@ const Third = () => {
           <div className="btxt">One million single use plastic bottles are thrown out every minute!</div>
           <div><img src={bt} className='bimg' alt="img"></img></div>
           <div className="balpha">C</div>
-          <div className="btxt">How to live sustainably during a pandemic <a hreaf="">Read More</a></div>
+          <div className="btxt">How to live sustainably during a pandemic <a href="www.google.com">Read More</a></div>
           </div>
 
           <div className="st">  

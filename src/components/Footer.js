@@ -3,7 +3,7 @@ import lin from "../Images/Frame 5.png"
 import fb from "../Images/Frame 6.png"
 import tt from "../Images/Frame 7.png"
 import wt from "../Images/Frame 8.png"
-import fimg from "../Images/Group 1540.png"
+// import fimg from "../Images/Group 1540.png"
 import "../style/footer.css"
 const Footer = () => {
   const [email, setEmail] = useState("");
