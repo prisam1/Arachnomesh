@@ -33,17 +33,17 @@ const Third = () => {
         <div className="imgbot">
 
           <div className="ft">     
-          <div className="balpha">A</div>
-          <div className="imgtxt">One million single use plastic bottles are thrown out every minute!</div>
+          <div className="balpha1">A</div>
+          <div className="imgtxt1">One million single use plastic bottles are thrown out every minute!</div>
           <div><img src={bt} className='bimg' alt="img"></img></div>
-          <div className="balpha">C</div>
-          <div className="imgtxt">How to live sustainably during a pandemic <a href="www.google.com">Read More</a></div>
+          <div className="balpha3">C</div>
+          <div className="imgtxt2">How to live sustainably during a pandemic. <a href="www.google.com" className="li">Read More.</a></div>
           </div>
 
           <div className="st">  
           <div><img src={sea} className='bimg' alt="img"></img></div>
-          <div className="balpha">B</div>
-          <div className="imgtxt">The Plastic free year Challenges is Here. REGISTER NOW!</div>
+          <div className="balpha2">B</div>
+          <div className="imgtxt3">The Plastic free year Challenges is Here. REGISTER NOW!</div>
           <div><img src={fall} className='bimg' alt="img"></img></div>
           </div>
         </div>
